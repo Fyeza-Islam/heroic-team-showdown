@@ -1,0 +1,10 @@
+1, Human, Gareno, Warrior, 100, 80.00, PyroControl
+2, NonLiving, Thresh, Phantom, 100, 70.00, MagneticPulse
+3, Monster, Luxian, Magelan, 100, 100.00, HydroForce, 7.00
+4, NonLiving, Zedrik, Entitix, 100, 80.00, ElectroShock
+5, Human, Yasuki, Nomador, 100, 90.00, HydroForce
+6, Monster, Blitzo, Paladin, 100, 95.00, MagneticPulse, 10.00
+7, NonLiving, Leonar, Beacone, 100, 100.00, PyroControl
+8, Human, Nasulo, Reapron, 100, 80.00, ElectroShock
+9, Monster, Ahrion, Shamiro, 100, 85.00, HydroForce, 5.00
+10, Human, Mordek, Specter, 100, 90.00, PyroControl
